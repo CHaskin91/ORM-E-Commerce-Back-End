@@ -1,0 +1,1 @@
+const { ProductTag } = require('../models');
