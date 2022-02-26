@@ -14,7 +14,9 @@ In this challenge, I've built the back end for an e-commerce site. I took a work
 
 Once you have cloned the repo code and opened in VS Code. Be sure to add a .env file to the root of the app. (See screenshot below)
 ![image](https://github.com/CHaskin91/ORM-E-Commerce-Back-End/blob/main/assets/env%20screenshot.PNG)
+
 Enter your MySQL Password in the field for `DB_PW`
+
 (If you rename the `DB_NAME` data, be sure to update the `schema.sql` file found in the `db/` directory.)
 
 Once the .env file was created. Run the following commands in the terminal.
